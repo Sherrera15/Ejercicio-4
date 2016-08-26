@@ -199,7 +199,9 @@ public class Principal5 extends javax.swing.JFrame {
     private void txtMostrarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtMostrarActionPerformed
         // TODO add your handling code here:
         
+        
         double cuenta1=0, numero =0;
+        
         for (int i = 0; i<v.length;i++){
         
             double cuenta2=0;
